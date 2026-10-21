@@ -1514,6 +1514,12 @@ Utilities and tools to enhance your Claude workflow.
   - Builds memory and injects relevant context back into the session
   - From Letta AI; TypeScript, MIT licensed
 
+- [toranalytics/off-the-wall](https://github.com/toranalytics/off-the-wall) ![Stars](https://img.shields.io/github/stars/toranalytics/off-the-wall?style=flat-square)
+  - Hooks plugin for Claude Code and Codex that quotes your own past corrections back to the agent before it answers
+  - `otw report` shows which corrections you repeat most
+  - Asks the orchestrator to name a model for each subagent call, as guidance
+  - JavaScript, no dependencies, MIT licensed
+
 ### MCP Servers & Integrations
 
 - [oraios/serena](https://github.com/oraios/serena) ![Stars](https://img.shields.io/github/stars/oraios/serena?style=flat-square)
